@@ -11,7 +11,7 @@ title: "About"
 
 ## Education
 **Sabancı University** | Istanbul, Turkey  
-*BSc in Computer Science, Minor in Business Analytics (cGPA: 3.38/4.00)*  
+*BSc in Computer Science, Minor in Business Analytics *  
 Aug 2020 – Jan 2025  
 
 **Notre Dame de Sion French High School** | Istanbul, Turkey  
