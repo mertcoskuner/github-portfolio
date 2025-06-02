@@ -47,6 +47,7 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+minimal_mistakes_skin: "dark"
 
 # Plugins (previously gems:)
 plugins:
